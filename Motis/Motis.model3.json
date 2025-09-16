@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Motis.moc3",
+		"Textures": [
+			"Motis.4096/texture_00.png"
+		],
+		"Physics": "Motis.physics3.json",
+		"DisplayInfo": "Motis.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
